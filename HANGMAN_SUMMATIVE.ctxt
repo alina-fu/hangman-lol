@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=HANGMAN_SUMMATIVE
+comment1.params=
+comment1.target=void\ main()
+comment10.params=word\ tries
+comment10.target=void\ victoryOutput(java.lang.String,\ int)
+comment11.params=word
+comment11.target=void\ quitOutput(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getWord()
+comment3.params=word
+comment3.target=void\ guessMenu(java.lang.String)
+comment4.params=word\ guess\ guessedLetters\ tries
+comment4.target=boolean\ checkGuess(java.lang.String,\ java.lang.String,\ char[],\ int)
+comment5.params=guess
+comment5.target=boolean\ validChar(java.lang.String)
+comment6.params=guess\ guessedLetters
+comment6.target=boolean\ previouslyGuessedLetter(java.lang.String,\ char[])
+comment7.params=word\ guess\ guessedLetters
+comment7.target=boolean\ checkLetter(java.lang.String,\ java.lang.String,\ char[])
+comment8.params=word\ guess
+comment8.target=boolean\ checkWord(java.lang.String,\ java.lang.String)
+comment9.params=word\ guess\ newWord\ tries
+comment9.target=char[]\ updateWord(java.lang.String,\ java.lang.String,\ char[],\ int)
+numComments=12
