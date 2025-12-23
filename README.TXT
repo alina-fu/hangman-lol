@@ -5,8 +5,9 @@ all they need to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
 PROJECT TITLE: HANGMAN
-PURPOSE OF PROJECT: 
+PURPOSE OF PROJECT: Play hangman
 VERSION or DATE: Jun 2024
 HOW TO START THIS PROJECT: Run void main()
+
 
 
